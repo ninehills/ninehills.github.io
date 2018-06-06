@@ -13,7 +13,7 @@ authors: ninehills
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: 3bbe43440decfa46c3df54142b768153046af45d
+token: 5#e16040ba2cc83c8448eda1b329c1d5b30421f726
 
 # posts per page
 perpage: 5
