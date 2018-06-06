@@ -1,0 +1,19 @@
+# site title
+title: 九原山区
+
+# github user
+user: ninehills
+
+# issue repository
+repository: ninehills.github.io
+
+# multi-author
+authors: ninehills
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 3bbe43440decfa46c3df54142b768153046af45d
+
+# posts per page
+perpage: 5
